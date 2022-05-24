@@ -39,9 +39,10 @@ button{
 
 #logo{
   height: 70px;
-  max-height: 8vh;
-  width: auto;
+  max-height: 10vh;
+  width: 300px;
   margin: 20px 0 40px 0;
+  border: 5px solid black;
 }
 
 #photo{
